@@ -1,4 +1,5 @@
 "use strict";
+alert('Скрипт работает');
 let num = 50;
 
 // while (num <= 55) {
